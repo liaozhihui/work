@@ -1,0 +1,65 @@
+{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "intent": "greet",
+        "text": "你好"
+      },
+      {
+        "intent": "greet",
+        "text": "上午好"
+      },
+      {
+        "intent": "greet",
+        "text": "下午好"
+      },
+      {
+        "intent": "greet",
+        "text": "早上好"
+      },
+      {
+        "intent": "greet",
+        "text": "晚上好"
+      },
+      {
+        "intent": "mood_happy",
+        "text": "很好"
+      },
+      {
+        "intent": "mood_happy",
+        "text": "我很好"
+      },
+      {
+        "intent": "mood_unhappy",
+        "text": "我很难受"
+      },
+      {
+        "intent": "mood_unhappy",
+        "text": "我心情很差"
+      },
+      {
+        "intent": "ask_weather",
+        "text": "今天天气怎么样"
+      },
+      {
+        "intent": "ask_weather",
+        "text": "今天天气"
+      },
+      {
+        "intent": "ask_weather",
+        "text": "天气怎么样"
+      },
+      {
+        "intent": "weather_city",
+        "text": "深圳"
+      },
+      {
+        "intent": "weather_city",
+        "text": "温州"
+      }
+    ],
+    "regex_features": [],
+    "lookup_tables": [],
+    "entity_synonyms": []
+  }
+}
